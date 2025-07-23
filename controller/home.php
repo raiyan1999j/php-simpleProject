@@ -1,3 +1,1 @@
-<?php
-    require "view/home/home.view.php";
-?>
+<?php require "view/home/home.view.php";?>

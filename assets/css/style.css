@@ -5,3 +5,8 @@
     font-family: "Roboto", sans-serif;
     font-optical-sizing: auto;
 }
+.bannerBg{
+    background-image: url("../image/bannerImg.png");
+    background-position: calc(100% - 50px) bottom;
+    background-size: 871px 784px;
+}
