@@ -10,3 +10,7 @@
     background-position: calc(100% - 50px) bottom;
     background-size: 871px 784px;
 }
+.offerBg{
+    background-image:url("../../assets/image/offerImg.png");
+    background-position: left bottom;
+}
