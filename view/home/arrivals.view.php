@@ -1,6 +1,6 @@
 <section class="px-[104px] mt-[69px]">
     <div class="mb-20">
-        <h2 class="poppins text-black font-black text-[48px] uppercase">
+        <h2 class="poppins text-black font-black text-5xl uppercase relative after:absolute after:h-10 after:w-[190px] after:bg-[#EBD96B] after:rounded-tl-full after:rounded-br-full after:rounded-bl-xl after:left-[12%] after:top-[40%] after:-z-10">
             new arrivals
         </h2>
     </div>

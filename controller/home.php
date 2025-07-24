@@ -19,4 +19,17 @@
         ]
     ];
 
+    $youngs = [
+        [
+            "img"=>"youngs1.png",
+            "title"=>"treading on instagram",
+            "link"=>"explore now!"
+        ],
+        [
+            "img"=>"youngs2.png",
+            "title"=>"all under $40",
+            "link"=>"explore now!"
+        ]
+    ];
+
 require "view/home/home.view.php";?>

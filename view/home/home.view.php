@@ -4,5 +4,6 @@
 <?php require "sponser.view.php"?>
 <?php require "arrivals.view.php"?>
 <?php require "offer.view.php"?>
+<?php require "youngs.view.php"?>
 
 <?php require "view/pertial/footer.view.php"?>
