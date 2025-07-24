@@ -17,3 +17,7 @@
 .headingBg{
     background-image:url("../../assets/image/heading.png");
 }
+.advertiseBg{
+    background-image: url("../image/mobileImg.png");
+    background-position: right;
+}

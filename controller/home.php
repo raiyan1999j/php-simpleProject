@@ -32,4 +32,6 @@
         ]
     ];
 
+    $app = array("app1.png","app2.png");
+
 require "view/home/home.view.php";?>
