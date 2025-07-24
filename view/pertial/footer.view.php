@@ -1,5 +1,5 @@
 <!-- footerArea-start -->
- <footer class="mt-[180px] bg-black text-white py-[119px] 2xl:px-[100px] xl:px-[50px] px-10">
+ <footer class="bg-black text-white py-[119px] 2xl:px-[100px] xl:px-[50px] px-10">
     <div class="grid 2xl:grid-cols-5 grid-cols-1 gap-y-10">
         <div class="xl:col-span-2">
             <div>
